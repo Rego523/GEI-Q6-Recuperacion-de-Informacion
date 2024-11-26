@@ -1,0 +1,11 @@
+Top 10 terms for document with URL: https://www.burgerking.es/(docID 0)
+Term: burger, TF: 1, DF: 1, TF-IDF: 1.3424226808222062
+Term: king, TF: 1, DF: 1, TF-IDF: 1.3424226808222062
+Term: javascript, TF: 1, DF: 1, TF-IDF: 1.3424226808222062
+Term: enable, TF: 1, DF: 1, TF-IDF: 1.3424226808222062
+Term: application, TF: 1, DF: 2, TF-IDF: 1.0413926851582251
+Term: continue, TF: 1, DF: 3, TF-IDF: 0.8450980400142568
+Term: using, TF: 1, DF: 4, TF-IDF: 0.6989700043360189
+Term: please, TF: 1, DF: 5, TF-IDF: 0.6020599913279624
+Term: this, TF: 1, DF: 13, TF-IDF: 0.0
+Term: to, TF: 1, DF: 15, TF-IDF: 0.0
